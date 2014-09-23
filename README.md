@@ -3,11 +3,10 @@ crypto
 
 Sample implementation of python Pycrypto lib.
 
-'''
 This is a python implementation example for various Cryptographic Algorithms using pyCrypto
 python library for my network class.
-'''
-RSA implementation is not included, due to complexity in demostarting it.
+
+RSA implementation is not included, due to complexity in demonstrating it.
 It can be demostarted on request.
 
 Dependecies:
